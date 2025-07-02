@@ -2,21 +2,21 @@ const getData = () => {
     return [
       {
         id: 1,
-        name: 'Dimas Saputra',
-        tag: 'dimasmds',
-        imageUrl: '/images/dimasmds.jpeg',
+        name: 'Iksan Awaludin',
+        tag: 'iksan',
+        imageUrl: '/images/iksanawaludin.jpeg',
       },
       {
         id: 2,
-        name: 'Arif Faizin',
-        tag: 'arifaizin',
-        imageUrl: '/images/arifaizin.jpeg',
+        name: 'udinn',
+        tag: 'dinn',
+        imageUrl: '/images/udinn.jpeg',
       },
       {
         id: 3,
-        name: 'Rahmat Fajri',
-        tag: 'rfajri27',
-        imageUrl: '/images/rfajri27.jpeg',
+        name: 'iksanudin',
+        tag: 'sanudin',
+        imageUrl: '/images/sanudin.jpeg',
       },
     ];
    }
